@@ -1,2 +1,4 @@
-# adminCode.sk
-Free script for your server, which can block some hackers
+My own Limits script on Minecraft Server.
+Want some more? Click "Watch" in my profile!
+Do you want other script? Text to me on discord!
+Enjoy!!
